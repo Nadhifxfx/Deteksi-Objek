@@ -39,7 +39,8 @@ for file_name in uploaded.keys():
         plt.show()
 ```
 
-#Hasil Gambar
-![jln pt2](https://github.com/user-attachments/assets/81cf46dc-a607-4e8a-882f-9d4de94543fc)
-![hsl](https://github.com/user-attachments/assets/261f1736-4a4f-495b-ab64-a109048f8fd8)
+# Hasil Gambar <br>
+![jln pt2](https://github.com/user-attachments/assets/81cf46dc-a607-4e8a-882f-9d4de94543fc)<br>
+
+![hsl](https://github.com/user-attachments/assets/261f1736-4a4f-495b-ab64-a109048f8fd8)<br>
 
